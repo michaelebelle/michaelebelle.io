@@ -1,10 +1,10 @@
 # Software Engineer
 
 
-######Education
+###Education
 B.S Computer Science
 
-#######work Experience
+###Work Experience
 - Wells Fargo
 - U.S Steel
 

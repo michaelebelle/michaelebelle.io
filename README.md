@@ -1,4 +1,4 @@
-# Data Scientist
+# Software Engineer
 
 #### Technical Skills: Python, Java, SQL, Power BI, Tableau, Javascript
 

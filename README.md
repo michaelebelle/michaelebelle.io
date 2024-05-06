@@ -1,9 +1,12 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Java, SQL, Power BI, Tableau, Javascript
+
+## Certifications
+- Google Cloud Digital Leader
 
 ## Education 			        		
-- Bachelor of Science, COomputer Science | The University of Pittsburgh - Pittsburgh Campus (_May 2022_)
+- Bachelor of Science, Computer Science | The University of Pittsburgh - Pittsburgh Campus (_May 2022_)
 
 ## Work Experience
 **Software Engineer @ Wells Fargo (_July 2022 - Present_)**
